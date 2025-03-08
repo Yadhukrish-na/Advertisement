@@ -1,7 +1,6 @@
 import React from 'react';
 import Style from './home.module.css';
 import Navbar from '../../Components/Navbar/Navbar';
-import Footer from '../../Components/Footer/Footer';
 import img1 from '../../assets/Mark.jpeg'
 import img2 from '../../assets/creative.jpeg'
 import img3 from '../../assets/digi.jpeg'
