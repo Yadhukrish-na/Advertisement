@@ -1,0 +1,44 @@
+.container {
+    text-align: center;
+    padding: 50px 20px;
+    background-color: #f0f8ff;
+    color: purple;
+}
+
+.services {
+    text-align: center;
+    padding: 40px 20px;
+}
+
+.services h2 {
+    margin-bottom: 30px;
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 30px;
+}
+
+
+.service img {
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.service p {
+    max-width: 400px;
+    line-height: 1.6;
+}
+
+.contact {
+    text-align: center;
+    padding: 30px 20px;
+
+    color: blue;
+    font-weight: bold;
+}
